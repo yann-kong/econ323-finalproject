@@ -1,0 +1,33 @@
+GEO,REF_DATE_x,Labour force characteristics_x,Population 2020,REF_DATE_y,Labour force characteristics_y,Population 2015,Population_change
+"St. John's, Newfoundland and Labrador",2020-03,Population,187.0,2015-03,Population,178.0,65.56179775280899
+"Halifax, Nova Scotia",2020-03,Population,379.6,2015-03,Population,346.7,109.89472166137881
+"Moncton, New Brunswick",2020-03,Population,133.0,2015-03,Population,123.2,94.54545454545453
+"Saint John, New Brunswick",2020-03,Population,107.7,2015-03,Population,105.6,34.88636363636372
+"Saguenay, Quebec",2020-03,Population,133.4,2015-03,Population,135.1,2.41672834937092
+"Québec, Quebec",2020-03,Population,690.1,2015-03,Population,668.1,47.92920221523724
+"Sherbrooke, Quebec",2020-03,Population,189.4,2015-03,Population,178.6,75.47032474804038
+"Trois-Rivières, Quebec",2020-03,Population,135.6,2015-03,Population,132.6,37.62443438914027
+"Montréal, Quebec",2020-03,Population,3546.1,2015-03,Population,3341.8,76.13471781674536
+"Kingston, Ontario",2020-03,Population,147.4,2015-03,Population,137.9,83.89050036258158
+"Peterborough, Ontario",2020-03,Population,108.4,2015-03,Population,104.2,55.30710172744725
+"Oshawa, Ontario",2020-03,Population,350.0,2015-03,Population,319.6,110.11889862327902
+"Toronto, Ontario",2020-03,Population,5649.2,2015-03,Population,5073.4,128.49390940986325
+"Hamilton, Ontario",2020-03,Population,684.6,2015-03,Population,640.1,84.52038743946258
+"St. Catharines-Niagara, Ontario",2020-03,Population,360.2,2015-03,Population,342.8,65.75845974329047
+"Kitchener-Cambridge-Waterloo, Ontario",2020-03,Population,454.0,2015-03,Population,420.2,95.43788672060926
+"Brantford, Ontario",2020-03,Population,119.2,2015-03,Population,111.5,84.05829596412559
+"Guelph, Ontario",2020-03,Population,141.5,2015-03,Population,128.2,118.74414976599073
+"London, Ontario",2020-03,Population,452.6,2015-03,Population,420.8,90.57034220532321
+"Windsor, Ontario",2020-03,Population,298.3,2015-03,Population,279.0,84.17562724014343
+"Barrie, Ontario",2020-03,Population,182.4,2015-03,Population,166.2,112.47292418772575
+"Greater Sudbury, Ontario",2020-03,Population,141.3,2015-03,Population,139.8,25.72961373390558
+"Thunder Bay, Ontario",2020-03,Population,104.6,2015-03,Population,104.6,15.0
+"Winnipeg, Manitoba",2020-03,Population,704.3,2015-03,Population,649.6,99.20566502463043
+"Regina, Saskatchewan",2020-03,Population,215.0,2015-03,Population,196.9,106.9248349415947
+"Saskatoon, Saskatchewan",2020-03,Population,279.9,2015-03,Population,250.1,134.1523390643742
+"Calgary, Alberta",2020-03,Population,1292.8,2015-03,Population,1168.7,121.1863609138358
+"Edmonton, Alberta",2020-03,Population,1203.0,2015-03,Population,1092.1,116.54747733724028
+"Kelowna, British Columbia",2020-03,Population,168.5,2015-03,Population,151.4,127.94583883751648
+"Abbotsford-Mission, British Columbia",2020-03,Population,160.1,2015-03,Population,144.2,125.26352288488215
+"Vancouver, British Columbia",2020-03,Population,2302.5,2015-03,Population,2115.7,103.29229096752857
+"Victoria, British Columbia",2020-03,Population,324.8,2015-03,Population,302.0,90.49668874172187
